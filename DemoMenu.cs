@@ -50,7 +50,7 @@ namespace WindowsFormsApp_PRODUCT_LIST
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("Default", "https://www.linkedin.com/in/jonathan-silva-machado-43a725202/");
+            System.Diagnostics.Process.Start("https://www.linkedin.com/in/jonathan-silva-machado-43a725202/");
         }
 
         private void label4_Click(object sender, EventArgs e)
@@ -60,12 +60,12 @@ namespace WindowsFormsApp_PRODUCT_LIST
 
         private void kryptonButton1_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("Default", "https://www.linkedin.com/in/jonathan-silva-machado-43a725202/");
+            System.Diagnostics.Process.Start("https://www.linkedin.com/in/jonathan-silva-machado-43a725202/");
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("Default", "https://github.com/JonathanSM-dev");
+            System.Diagnostics.Process.Start("https://github.com/JonathanSM-dev");
         }
     }
 }
